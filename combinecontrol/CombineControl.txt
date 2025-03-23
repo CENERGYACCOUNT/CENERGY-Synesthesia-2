@@ -1,0 +1,7 @@
+"CombineControl"
+{
+	"base"			"base"
+	"title"			"CENERGY"
+	"menusystem" 	"1"
+	"maps"			"^rp_"
+}
