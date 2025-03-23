@@ -46,7 +46,7 @@ SWEP.Primary.Automatic     = true
 SWEP.Primary.Damage        = 75
 SWEP.Primary.CritChance        = 25
 SWEP.Primary.CritDamage        = 50
-SWEP.Primary.Force         = 10
+SWEP.Primary.Force         = 5
 SWEP.Primary.DamageType = "heat" -- Options: "bullet", "slash", "blunt"
 SWEP.Primary.BulletSize = 10 -- 1 size = 0.2. Enemy dodge is then multiplied by the total of that number.
 SWEP.Primary.Penetration = 75
