@@ -13,7 +13,7 @@ SWEP.ItemFOV = 12;
 SWEP.ItemCamPos = Vector( 0.9, 50, 8.04 );
 SWEP.ItemLookAt = Vector( 1.61, 1.61, -1.6 );
 SWEP.Slot 			= 2
-SWEP.SlotPos 		= 72
+SWEP.SlotPos 		= 73
 -- Visuals
 SWEP.UseHands     = true
 SWEP.RepositionToHand = true;
