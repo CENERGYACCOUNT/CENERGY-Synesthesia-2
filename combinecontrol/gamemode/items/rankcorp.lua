@@ -1,6 +1,6 @@
 ITEM.ID				= "rankcorp";
 ITEM.Name			= "Rank Ribbon - Corporal";
-ITEM.Description	= "A rank of a corporal.";
+ITEM.Description	= "A rank of a corporalSEX.";
 ITEM.Model			= "models/kake/ribbon_3.mdl";
 ITEM.Weight 		= 0;
 ITEM.FOV 			= 3;
