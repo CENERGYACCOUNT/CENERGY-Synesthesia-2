@@ -36,7 +36,7 @@ function SWEP:PerformActionOnTarget(target, oddity, recoilAngle, sound, voiceTyp
     end
 
     -- Ensure the target is within 500 units range
-    if self.Owner:GetPos():Distance(target:GetPos()) > 500 then
+    if self.Owner:GetPos():Distance(target:GetPos()) > 1000 then
         self.Owner:EmitSound("common/wpn_denyselect.wav")
         self.Owner:ViewPunch(Angle(1, 0, 0))  -- Small reverse recoil for owner
         return
